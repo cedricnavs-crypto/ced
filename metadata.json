@@ -1,0 +1,6 @@
+{
+  "name": "STI Global City Capstone Defense Scheduling System",
+  "description": "Centralized Web-Based Capstone Defense Scheduling System for STI College Global City. Streamlines title proposals, panelist & adviser assignments, conflict detection, and defense schedules across Student, Panelist, Adviser, and Admin roles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
